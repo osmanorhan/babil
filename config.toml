@@ -1,0 +1,19 @@
+baseurl = "https://babil.xyz"
+title = "BSYY"
+languageCode = "tr"
+contentdir = "content"
+publishdir = "public"
+builddrafts = false
+baseUrl = "http://babil.xyz"
+canonifyurls = true
+author = "O"
+theme = "simple-style"
+
+[indexes]
+  category = "categories"
+  tag = "tags"
+
+[params]
+  search_engine = true
+  twitter_username = "osmanorhan"
+  paginate = true
