@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+{{ partial "html-meta.html" . -}}
+<title>{{ if not .IsHome }}{{ .Title }} - {{ end }}{{ .Site.Title }}</title>
+<link rel="stylesheet" type="text/css" href="{{ "/css/main.css" | relURL }}">
+{{ with .Site.Params.favicon -}}
+<link rel="icon" href="{{ . }}" type="image/x-icon">
+{{ end -}}
+</head>
+<body>
+<header class="flex flex-row justify-between">
+  <div class="flex">
+    <img class="logo" src="{{ "/img/logo.png" | relURL }}"><h1><a - href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
+    {{- if .Site.Params.subtitle }}<h2><a href="{{ .Site.BaseURL }}">{{ .Site.Params.subtitle }}</a></h2>{{- end }}
+  </div>
+  <nav class="flex">
+    {{- range .Site.Menus.main -}}
+      <a href="{{ .URL }}">{{ .Name }}</a>
+    {{- end -}}
+    <a href="/records">İçerikler</a>
+    <a href="/blog">Blog</a>
+  </nav>
+</header>
+<main>
+  <article>
+    {{ block "main" . }}{{- end }}
+  </article>
+</main>
+{{ template "_internal/google_analytics_async.html" . -}}
+{{ partial "github-corner.html" . -}}
+</body>
+</html>

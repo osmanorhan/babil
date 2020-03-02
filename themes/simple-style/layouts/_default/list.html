@@ -1,0 +1,9 @@
+{{ define "main" -}}
+
+<ul class="lists">
+  {{ range .Paginator.Pages -}}
+  <li><a href="{{ .RelPermalink }}">{{ .Title }}</a> {{ .Date.Format "2006-01-02" }} </li>
+  {{ end -}}
+</ul>
+{{ template "_internal/pagination.html" . -}}
+{{ end -}}
