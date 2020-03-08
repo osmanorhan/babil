@@ -1,7 +1,6 @@
 +++
 author = "O"
 date = 2020-02-29T21:00:00Z
-draft = true
 github = "https://github.com/osmanorhan/babil"
 title = "Çeviriler Üzerine-I"
 
