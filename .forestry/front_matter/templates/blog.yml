@@ -23,3 +23,5 @@ fields:
     required: false
   label: GitHub
   default: https://github.com/osmanorhan/babil
+pages:
+- content/blog/çeviriler-üzerine-i.md
