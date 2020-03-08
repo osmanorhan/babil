@@ -24,5 +24,6 @@ fields:
   label: GitHub
   default: https://github.com/osmanorhan/babil
 pages:
+- content/blog/gödel-escher-bach.md
 - content/blog/çeviriler-üzerine-i.md
 - content/blog/çeviriler-üzerine-ii.md
