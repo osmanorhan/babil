@@ -11,3 +11,15 @@ fields:
 - type: text
   name: author
   label: author
+- name: draft
+  type: text
+  config:
+    required: false
+  label: draft
+  default: 'true'
+- name: github
+  type: text
+  config:
+    required: false
+  label: GitHub
+  default: https://github.com/osmanorhan/babil
