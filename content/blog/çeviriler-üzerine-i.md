@@ -22,9 +22,16 @@ Gözlemlediğim eğitim sürecinde yol (en az) ikiye ayrılıyor:
 2\. Geliştirmek/Takip Etmek
 
   
-Ben, kişinin eğitimi sırasında kendi literatürünü(anlayışını) ana dilinde kurmasını ve sonrasında diğer kaynaklardan faydalanarak ilerlemesi gerektiğini düşünüyorum. Yani bebeğin anne sütüyle başlayıp sonra diğer yiyeceklere geçmesi gibi. Yani 1. adımı mümkünse ana dilde yapması, sonra 2. adımda gerçek kaynağa yönelmesi.
+Ben, kişinin eğitimi sırasında kendi literatürünü(anlayışını) ana dilinde kurmasını ve sonrasında diğer kaynaklardan faydalanarak ilerlemesi gerektiğini düşünüyorum. Yani bebeğin anne sütüyle başlayıp sonra diğer yiyeceklere geçmesi gibi. Dolayısıyla 1. adımı mümkünse ana dilde yapması, sonra 2. adımda gerçek kaynağa yönelmesi.
 
-Bir başka konu ise dilin ve çevirinin önemi. Bilgisayar bilimleri başta olmak üzere son yüzyılda batıdan gelen neredeyse tüm bilgi ingilizce denizinden besleniyor. Bu sebeple birebir ya da kelime çevirileri genellikle konunun kültürel bir karşılığının olmamasından dolayı genellikle oturması gereken yere oturmuyor. Ortak bir terminolojinin henüz olgunlaştırılmamış olması, çevirilerin teknik/kültürel olarak bize ne ifade ettiğinin anlaşılmaması kavrayışı derinden etkiliyor.Örneğin "döngü" dediğinizde bir öğrencinin kafasında ne canlanıyor? Aynı imgeler "loop" kelimesine karşılık bir Amerikalının aklına gelenler ile büyükoradan örtüşüyor mu? Bizim kelimeleri mi yoksa onların ifade ettiği imgeleri mi çevirmemiz gerekiyor?  
-Tüm bunlardan yola çıkarak, kendi gelişim sürecimde ingilizce bilmeden programlamaya başlama > programlama > farklı bir(kaç) disiplinde eğitim > dil öğrenimi > yurt dışında lisansüstü eğitimi > yazılım geliştirici olarak çalışma sürecinden öğrendiğim kavramları bu blog-sözlükte yazmak istedim.  
-İçerikler iki bölümde yer alacak, önemli bir kısmı kavramların benim(ya da katkı veren kişinin) kavrayışımda karşılıkları (büyük oranda yabancı kaynaklardan damıtılmış/türetilmiş ya da okuduğum kitaplardan alınmış) olan terimlerin kısa girdileri şeklinde, diğer bir kısmı da (bunun gibi) fikirlerin yer aldığı blog girdileri olacak(umarım).  
-İçerikler github hesabında açık olarak paylaşılmakta github vasıtasıyla katkı yapmak, hata veya eksiklikler ile ilgili yorum yapmak isterseniz sayfa altlarındaki github ikonunu kullanabilirsiniz.
+Bir başka konu ise dilin ve çevirinin önemi. Bilgisayar bilimleri başta olmak üzere son yüzyılda batıdan gelen neredeyse tüm bilgi İngilizce denizinden besleniyor. Bu sebeple bire bir ya da kelime çevirileri genellikle konunun kültürel bir karşılığının olmamasından dolayı genellikle oturması gereken yere oturmuyor. Ortak bir terminolojinin henüz olgunlaştırılmamış olması, çevirilerin teknik/kültürel olarak bize ne ifade ettiğinin anlaşılmaması kavrayışı derinden etkiliyor. Örneğin "**döngü**" dediğinizde bir öğrencinin kafasında ne canlanıyor? Aynı imgeler "**loop**" kelimesine karşılık bir Amerikalının aklına gelenler ile büyük oradan örtüşüyor mu? Bizim kelimeleri mi yoksa onların ifade ettiği imgeleri mi çevirmemiz gerekiyor?
+
+  
+Tüm bunlardan yola çıkarak, kendi gelişim sürecimde:
+
+> İngilizce bilmeden programlamaya başlama > programlama > farklı bir(kaç) disiplinde eğitim > dil öğrenimi > yurt dışında lisansüstü eğitimi > yazılım geliştirici olarak çalışma
+
+sürecinden öğrendiğim kavramları bu blog-sözlükte yazmak istedim. Ana hedefim, kendim için, dönüp baktığımda bulabileceğim kişisel bir sözlük oluşturmak bunu yaparken ilgilenecek kişilere faydalı olabilecek şekilde açıkta bu içerikleri listelemek. 
+
+İçerikler iki bölümde yer alacak, önemli bir kısmı kavramların benim(ya da katkı veren kişinin) kavrayışımda karşılıkları (büyük oranda yabancı kaynaklardan damıtılmış/türetilmiş ya da okuduğum kitaplardan alınmış) olan terimlerin kısa girdileri şeklinde, diğer bir kısmı da (bunun gibi) fikirlerin yer aldığı blog girdileri olacak (umarım).  
+İçerikler github hesabında açık olarak paylaşılmakta, katkı yapmak, hata, eksik veya iyileştirmeler ile ilgili yorum yapmak isterseniz sayfa altlarındaki github linkinden lütfen bana ulaşın.
