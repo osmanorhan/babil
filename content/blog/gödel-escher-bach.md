@@ -7,7 +7,7 @@ title = "Gödel, Escher, Bach"
 +++
 "**Tumbolia**: Ölü hıçkırıklar ve sönmüş elektrik lambaları diyarı"
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331382003l/24115.jpg)
+![](/uploads/GÖDEL_ESCHER_BACH.jpg)
 
 Kitabı büyük bir merakla 2006 yılında almıştım, ilk okuma girişimim de o dönemde oldu. Benim için öyle bir kitap ki okuması tam 13 yılımı aldı. Sayısız defa okumayı denedim ama her birinde tamamlayamadan başa döndüm. Sonuç olarak şunu söyleyebilirim, değdi!
 
