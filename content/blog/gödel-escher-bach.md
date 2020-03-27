@@ -1,6 +1,6 @@
 +++
 author = ""
-date = ""
+date = 2020-03-26T21:00:00Z
 github = "https://github.com/osmanorhan/babil"
 title = "Gödel, Escher, Bach"
 
